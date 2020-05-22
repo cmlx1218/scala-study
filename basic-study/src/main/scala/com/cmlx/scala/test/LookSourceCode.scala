@@ -8,10 +8,11 @@ package com.cmlx.scala.test
 object LookSourceCode {
 
   def main(args: Array[String]): Unit = {
-    var array = new Array[Int](10)
+    val array = new Array[Int](10)
     for (item <- array) {
       println(item)
     }
+    println("xxx"+1)
   }
 
 }
