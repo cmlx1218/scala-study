@@ -1,7 +1,9 @@
 # Created by .ignore support plugin (hsz.mobi)
-.gitignore
-.idea/workspace.xml
-basic-study/src/main/java/
-basic-study/src/main/resources/
-basic-study/src/test/
-basic-study/target/
+
+*.iml
+
+out
+
+target
+
+/**/.idea/
